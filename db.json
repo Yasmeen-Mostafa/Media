@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "name": "April Jaskolski",
+      "id": 1
+    },
+    {
+      "name": "Allan Runte",
+      "id": 3
+    },
+    {
+      "name": "Dr. Essie Grady",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "title": "Oriental Fresh Keyboard",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "Modern Fresh Gloves",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Fantastic Frozen Fish",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "Practical Steel Shoes",
+      "userId": 1,
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80324",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=48640",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=28555",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=72502",
+      "id": 9
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94925",
+      "id": 10
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=60016",
+      "id": 11
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=73595",
+      "id": 12
+    }
+  ]
+}
